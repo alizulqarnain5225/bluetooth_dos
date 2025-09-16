@@ -49,8 +49,8 @@ Recommended:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/bluetooth-dos-tool.git
-cd bluetooth-dos-tool
+git clone https://github.com/alizulqarnain5225/bluetooth_dos
+cd bluetooth_dos
 ```
 
 2. Create virtual environment (recommended):
